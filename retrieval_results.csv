@@ -1,0 +1,901 @@
+strategy,chunk_words,overlap_words,top_k,question,gold_answer,hit_gold_in_topk
+small,200,50,2,How might gravity effects be observed differently according to Newton?,at larger distances.,1
+small,200,50,2,What is the prize offered for finding a solution to P=NP?,"$1,000,000",1
+small,200,50,2,What color were the Bronco's uniforms in Super Bowl 50?,white,1
+small,200,50,2,What are the little tentacles that cydippids have called?,tentilla,1
+small,200,50,2,Which lunar probe was near the Apollo 12 crew's landing site?,Surveyor 3,1
+small,200,50,2,Electrolysis of what can be used to produce oxygen and hydrogen?,water,1
+small,200,50,2,When was the Edict of Worms presented?,25 May 1521,1
+small,200,50,2,How many other important people sent letters?,more than 70,1
+small,200,50,2,What is an alternate way to make starch?,glucose monomers in the chloroplast can be linked together,1
+small,200,50,2,What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?,X-ray image,1
+small,200,50,2,Where did Maududi's books place Islam?,in a modern context,1
+small,200,50,2,What is the process of constructing a building or infrastructure?,Construction,1
+small,200,50,2,How many will the host committee dedicate to local charities?,25 percent,1
+small,200,50,2,In what city is SAP Center located?,San Jose,0
+small,200,50,2,"For what invention was U.S. Patent 1,655,114 granted?",VTOL aircraft,1
+small,200,50,2,For what purpose is oxygen used by animal life?,cellular respiration,1
+small,200,50,2,By which year did the American cars mpg start to improve?,1985,1
+small,200,50,2,Which religion did Kublai prefer?,"Buddhism, especially the Tibetan variants",1
+small,200,50,2,Early Western texts referencing the East describe the people as being what?,irrational and backward,1
+small,200,50,2,Who is the NFL's vice president of brand and creative?,Jaime Weston,1
+small,200,50,2,What does Obersee mean?,upper lake,0
+small,200,50,2,What types of engines are steam engines?,external combustion,1
+small,200,50,2,In what process are electrons recycled?,cyclic photophosphorylation,1
+small,200,50,2,What third type of plea uses creative words?,creative plea,1
+small,200,50,2,What objects in organisms absorb singlet oxygen to prevent harm?,Carotenoids,1
+small,200,50,2,"In a market economy, what is inequality a reflection of?",productivity gap between highly-paid professions and lower-paid professions,1
+small,200,50,2,"What interpretation of Islam is, for many of the adherents, the ""gold standard"" of their religion?",Saudi,1
+small,200,50,2,Ctenophores are less complex than what other group?,bilaterians,1
+small,200,50,2,Who was the NFL Commissioner in early 2012?,Roger Goodell,1
+small,200,50,2,In contrast how were Catholic saints portrayed?,frail Catholic saints,1
+small,200,50,2,Infrastructure is often called what?,"heavy/highway, heavy civil or heavy engineering",1
+small,200,50,2,How many years does the V&A glass collection cover?,4000,1
+small,200,50,2,What does ctenophore use to capture prey?,colloblasts,1
+small,200,50,2,What did Luther speak out about in Saxony?,the Jews,1
+small,200,50,2,What chemical element was the cause of the Apollo 1 disastrous outcome?,pure O,1
+small,200,50,2,Approximately how many works of art are included in the Far Eastern collections?,"more than 70,000",1
+small,200,50,2,How many types of science fiction have been impacted by Tesla?,several,1
+small,200,50,2,What did he do with Wardenclyffe?,sold,1
+small,200,50,2,Whose plan called for the Mongolian army to split in two after the Khwarezmian conquest?,Subutai,1
+small,200,50,2,Where was Tesla's property sent?,Belgrade,1
+small,200,50,2,When did Sunday Night Football premiere on NBC?,2006,1
+small,200,50,2,How many paintings did John Sheeshanks give to the museum?,233,1
+small,200,50,2,Who was made rich and prosperous prior to World War 1,many imperial powers,1
+small,200,50,2,"After the Oligocene period, under what period did the amazon rainforest begin to expand?",Middle Miocene,1
+small,200,50,2,Which retired ref disagreed with the outcome of the challenge of a incomplete pass?,Mike Carey,1
+small,200,50,2,Where are health and social problems most common?,among states in the US with larger income inequalities,1
+small,200,50,2,When was the plastome discovered?,1962,1
+small,200,50,2,Which study showed double the rate of anxiety?,2012,1
+small,200,50,2,What trading route joined Khwarezmia and the Mongol Empire?,the Silk Road,1
+small,200,50,2,Where did Tesla work in Budapest?,a telegraph company,1
+small,200,50,2,What is the name of one type of prime where p+1 or p-1 takes a certain shape?,primorial primes,1
+small,200,50,2,Where is the Santa Fe Railroad Depot located?,Downtown Fresno,1
+small,200,50,2,Who won the battle of Lake George?,"inconclusively, with both sides withdrawing from the field",1
+small,200,50,2,Clergy are members of what group rather than of any local congregation?,their Annual Conference,1
+small,200,50,2,"On December 22nd 2009, ABC reached an agreement with Apple to make ABC shows available on what service?",iTunes,1
+small,200,50,2,Who did the Parliament rent additional buildings from?,City of Edinburgh Council,1
+small,200,50,2,What style of lace is erroneously believed by some to have Huguenot influence?,'Bucks Point',1
+small,200,50,2,Who led Richard's troops when Cyprus was conquered?,Guy de Lusignan,1
+small,200,50,2,Who did Newton get a pass to in the Panther starting plays of Super Bowl 50?,Ted Ginn Jr.,1
+small,200,50,2,When did Syria and Egypt launch a surprise attack on Israel?,"On October 6, 1973",1
+small,200,50,2,The west side of Fresno is the center of which ethnic community?,African-American,1
+small,200,50,2,How much did Tesla say Edison offered him to redesign his motor and generators?,fifty thousand dollars,1
+small,200,50,2,By which year did full sized American cars shrink to be smaller?,1979,1
+small,200,50,2,When did he talk about his thoughts on gender?,1926,1
+small,200,50,2,Who led the Kievian Rus' troops against Subutai's Mongol army?,Mstislav the Bold of Halych and Mstislav III of Kiev,1
+small,200,50,2,What do ctenophores have that no other animals have?,colloblasts,1
+small,200,50,2,What impact did the high school education movement have on the wages of skilled workers?,decrease,1
+small,200,50,2,What physical quantities do not have direction?,denoted scalar quantities,1
+small,200,50,2,What cable provider did ABC reach an agreement with in 1993 to carry it's owned-and-operated stations in ABC O&O markets?,Time Warner Cable,1
+small,200,50,2,Other than the desert city why do many locals and tourists frequent southern California?,beaches,1
+small,200,50,2,Which network regained the ratings lead in America in 1984?,NBC,1
+small,200,50,2,When did Paul Rand's iconic ABC logo first debut?,1963–64 season,1
+small,200,50,2,"In an adjustable spring-loaded valve, what needs to be broken to allow an operator to tamper with it?",seal,1
+small,200,50,2,How much Saharan dust is blown and falls upon the Caribbean Sea each year?,43 million tons,1
+small,200,50,2,In what year was Nikola Tesla born? ,1856,1
+small,200,50,2,What caused the US public to condemn the occupation of the philippines?,a war erupted,1
+small,200,50,2,"When forces are from the presence of differnet objects, what law gives symmetry?",Newton's Third,1
+small,200,50,2,What is rugby rapidly becoming with high schools?,an official school sport,1
+small,200,50,2,What do apicoplasts synthesize?,"fatty acids, isopentenyl pyrophosphate, iron-sulfur clusters",1
+small,200,50,2,What day did the Apollo 11 crew return to Earth?,July 24,1
+small,200,50,2,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,1
+small,200,50,2,When was a study conducted of Swedish counties?,between 1960 and 2000,1
+small,200,50,2,How did Genghis Khan observed the surrender terms after Samarkand fell?,reneged,1
+small,200,50,2,How many reptiles have been discovered in the Amazon region?,378,1
+small,200,50,2,What planet did astrophysisist predict to explain the problems with Mercury?,Vulcan,1
+small,200,50,2,What happens to the norm when a number is multiplied by p?,norm gets smaller,1
+small,200,50,2,By what means were scientists able to liquefy air?,compressing and cooling,1
+small,200,50,2,What's the name of Newcastle's speedway team?,Newcastle Diamonds,1
+small,200,50,2,Who was Warsz?,12th/13th-century nobleman,1
+small,200,50,2,What has a negative influence over the US economy?,The embargo,1
+small,200,50,2,"The ""50"" given to the Super Bowl winner is plated with how many karats of gold?",18,1
+small,200,50,2,Who was Cromwell's allies?,the Scots,0
+small,200,50,2,Missing self desribes cells that only have small amounts of what cell-surface marker?,MHC I (major histocompatibility complex),1
+small,200,50,2,What well-known archeologist believed the Amazon didn't have many inhabitants?,Betty Meggers,1
+small,200,50,2,What kind of bureaucracy did the Normans institute?,meritocratic,0
+small,200,50,2,"Other than warships, what ships typically required high speeds?",ocean liners,1
+small,200,50,2,Where does two thirds of the Rhine flow outside of Germany?,Waal,1
+small,200,50,2,What was the name of the King of the Scots?,William the Lion,1
+small,200,50,2,Oxygen is released in cellular respiration by?,photosynthesis,1
+small,200,50,2,When did the Jin dynasty end?,1234,1
+small,200,50,2,What does the immune system protect against?,"pathogens, from viruses to parasitic worms",1
+small,200,50,2,What is the final effect of adding more and more idea strings to a load?,conservation of mechanical energy,1
+small,200,50,2,How many developed countries did British researchers use to gather statistics from?,23,1
+small,200,50,2,How many ways did Luther justify his opposition to revolt?,on three grounds,1
+small,200,50,2,How long ago was it when the water broke through the Purus Arch?,Within the last 5–10 million years,1
+small,200,50,2,Who presented the Edict of Worms declaring Luther to be an outlaw?,Emperor,1
+small,200,50,2,What did the acronym AAP stand for?,Apollo Applications Program,0
+small,200,50,2,"Besides Germany and Switzerland, where else is Lake Constance?",Austria,1
+small,200,50,2,What are more common in other plastids than chloroplasts?,Stromules,0
+small,200,50,2,What could justify restrictions on freedom of establishment?,"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",1
+small,200,50,2,What does the First Minister deliver at the beginning of each parliamentary year?,legislative programme for the forthcoming year,1
+small,200,50,2,What is another term used for year 13?,upper sixth,1
+small,200,50,2,Who does the Presiding Officer submit the final bill to?,the Monarch,1
+small,200,50,2,What serves as a biological barrier by competing for space and food in the GI tract?,commensal flora,0
+small,200,50,2,When did the FCC begin imposing fin-syn rules?,1970,1
+small,200,50,2,How is oxygen ranked as abundant in the universe?,third,1
+small,200,50,2,When did Pope Leo X  excommunicate Luther? ,3 January 1521,1
+small,200,50,2,Where was the Central Secretariat based?,Khanbaliq,1
+small,200,50,2,What prohibition agent was also an alumni at the university?,Eliot Ness,0
+small,200,50,2,When did Astor provide the money?,1899,1
+small,200,50,2,Who stripped the ball from Newton on a 3rd and nine?,Miller,1
+small,200,50,2,What is the foundation for separation results within complexity classes?,time and space hierarchy theorems,1
+small,200,50,2,How did Luther view the Ottoman Turks?,as a scourge,1
+small,200,50,2,Why was Tanaghrisson supporting British efforts?,"regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",1
+small,200,50,2,When is Luther commemorated by the Church of England?,31 October,1
+small,200,50,2,Construction takes place on location for who?,a known client,1
+small,200,50,2,When did the Democratic Republic of Afghanistan collapse?,1992,1
+small,200,50,2,How many companies were listed on the WSE on August 2009?,374,1
+small,200,50,2,To which trading route did Genghis Khan bring a stable political climate?,the Silk Road,1
+small,200,50,2,Where did Jochi remain after Genghis Khan sent for his sons in the spring of 1223?,Khorasan,1
+small,200,50,2,What did the NIF try to unify Islamist opposition against?,American attack on Iraq,1
+small,200,50,2,What was the name of the first episode of the new Doctor Who series?,Rose,1
+small,200,50,2,What role did Michael Oppenheimer have in the IPCC's reports?,coordinating lead author of the Fifth Assessment Report,1
+small,200,50,2,What was an additional projected effect of the attempted reform?,this would have also produced a single constitutional document,1
+small,200,50,2,What does it mean when a harmonic series diverges?,exceeds any given number,1
+small,200,50,2,What seed was the Carolina Panthers?,number one,1
+small,200,50,2,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,1
+small,200,50,2,What makes DNA vulnerable to deamination?,when it is single stranded,1
+small,200,50,2,How much dust is blown out of the Sahara each year?,182 million tons,1
+small,200,50,2,Who discovered that magnetic and electric could self-generate?,Maxwell,1
+small,200,50,2,The largest objects in the V&A ceramics and glass collection were produced in which countries?,Germany and Switzerland,1
+small,200,50,2,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,graph isomorphism problem,1
+small,200,50,2,What did Distributed Adaptive Message Block Switching do,"provide a fault-tolerant, efficient routing method for telecommunication messages",1
+small,200,50,2,What individual is the school named after?,John Harvard,1
+small,200,50,2,Where was Luther's last sermon preached?,Eisleben,1
+small,200,50,2,How did the education during the high school education movement differ from the subsequent high school education?,designed to equip students with necessary skill sets to be able to perform at work,1
+small,200,50,2,Who did the Panthers beat to become the NFC champs?,Arizona Cardinals,1
+small,200,50,2,How many species of trees can be found in the Amazon rainforest?,"16,000",1
+small,200,50,2,When did Buyantu resume testing potential government employees?,1313,1
+small,200,50,2,What political party is strongest in Melbourne's working class suburbs?,Australian Labor Party,1
+small,200,50,2,When did the Il-khanate experiment with paper money?,1294,1
+small,200,50,2,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,1
+small,200,50,2,How did William Shirley feel about French advancement?,British colonists would not be safe as long as the French were present,1
+small,200,50,2,WHat did foreign clones of DATAPAC allow for ,A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address,1
+small,200,50,2,In what century was quantum mechanics made? ,20th,0
+small,200,50,2,In which continent besides Asia were major gains made by the British Empire in the late 19th century?,Middle East,1
+small,200,50,2,What was the first true engine that was commercially successful?,atmospheric engine,1
+small,200,50,2,Who captured and held Temüjin prisoner around 1177?,the Tayichi'ud,1
+small,200,50,2,What is the eighth most populous city in the nation?,San Diego,1
+small,200,50,2,What does the chloroplast peripheral reticulum do?,increase the chloroplast's surface area for cross-membrane transport,1
+small,200,50,2,What is the process of turning CO2 into organic molecules called?,the Calvin cycle,1
+small,200,50,2,What does AFC stand for?,American Football Conference,1
+small,200,50,2,What was the U.S. Information Agency charged with doing during the Cold War?,undermining the communist ideology,1
+small,200,50,2,What famous musician starred in Stormy Monday?,Sting,1
+small,200,50,2,The university's center in Beijing is located next to what school's campus?,Renmin University,1
+small,200,50,2,How many points did the Broncos score in the last three minutes of the game versus Pittsburgh?,11,1
+small,200,50,2,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,Laszlo Babai and Eugene Luks,1
+small,200,50,2,"Since January 2012, all ABC programming has been presented in what format?",HD,0
+small,200,50,2,In the layered model of the Earth there are seismic discontinuities in which layer? ,the mantle,1
+small,200,50,2,For about how long would the extended LM allow a surface stay on the moon?,3 days,1
+small,200,50,2,What campaign did the Communist regime initiate after WWII?,"""Bricks for Warsaw""",0
+small,200,50,2,"In what year were the Distinguished Service Medals awarded to Grissom, White, and Chaffee?",1969,1
+small,200,50,2,"If two thirds of the Rhine flows through the Maas, where doe the other one third flow through?",Pannerdens Kanaal,1
+small,200,50,2,In what year did Tesla go to Budapest?,1881,1
+small,200,50,2,How old was tesla when he became a US citizen?,35,1
+small,200,50,2,Who donated property to the University of Chicago?,Marshall Field,1
+small,200,50,2,What ruined Richard's plans to reach Acre?,a storm,0
+small,200,50,2,Why aren't some forms of Hæmatococcus pluvialis green?,accessory pigments that override the chlorophylls' green colors,1
+small,200,50,2,What is tertiary education?,universities and/or TAFE colleges,1
+small,200,50,2,What language is used to educate in Wales?,Welsh,1
+small,200,50,2,Who was the first person to play the Master?,Roger Delgado,1
+small,200,50,2,Who included 1 as the first prime number in the mid 18th century?,Christian Goldbach,1
+small,200,50,2,How frequent is snow in the Southwest of the state?,very rare,1
+small,200,50,2,Where did water to the east of the Amazon drainage basin flow towards?,the Atlantic,1
+small,200,50,2,What reconstructions supported the 1999 paper's information?,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",1
+small,200,50,2,Where did France win a war in the 1950's,Algeria,1
+small,200,50,2,There are other categories for what?,"construction service firms (e.g., engineering, architecture) and construction managers",1
+small,200,50,2,How many atoms combine to form dioxygen?,two atoms,0
+small,200,50,2,Where is the chloroplast peripheral reticulum less commonly found?,"in some C3 angiosperms, and even some gymnosperms",1
+small,200,50,2,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,1606,1
+small,200,50,2,What does critically tapered mean? ,all angles remain the same,0
+small,200,50,2,The flushing action of what expels pathogens from the eyes?,tears,1
+small,200,50,2,Who were Temüjin's three full brothers?,"Hasar, Hachiun, and Temüge",1
+small,200,50,2,How great were the losses suffered in the the financial crisis of 2008-09 to Harvard endowment?,30% loss,1
+small,200,50,2,How did this effect the producer prices?,", helped to increase local producer prices by 20–25%",0
+small,200,50,2,What motivation is opportunity-based entrepreneurship driven by?,achievement-oriented,1
+small,200,50,2,"What country has a problem with classroom discipline, even though scores on tests are high?",Japan,1
+small,200,50,2,Which company was tasked with trying to restore the original tapes?,Lowry Digital,1
+small,200,50,2,What event would necessitate airline passengers to need a supplemental supply of oxygen? ,cabin depressurization,1
+small,200,50,2,What river runs through Warsaw?,Vistula River,1
+small,200,50,2,The National Art Library at the V&A is known by what other name?,Word and Image Department,1
+small,200,50,2,How many years had Thomas Davis played in the league when he broke his arm during the NFC Championship game?,11,1
+small,200,50,2,"What, rather than Islamism, requires explanation?",non-political Islam,1
+small,200,50,2,Which theorem states that every large even integer can be written as a prime summed with a semiprime?,Chen's theorem,1
+small,200,50,2,How was scarcity managed in many countries?,rationing,1
+small,200,50,2,What did the non-Afghan veterans returning home have in addition to their prestige?,considerable impact,1
+small,200,50,2,To what is singlet oxygen more reactive?,organic molecules,1
+small,200,50,2,Which Louisiana venue was one of three considered for Super Bowl 50?,New Orleans' Mercedes-Benz Superdome,1
+small,200,50,2,In what century did important classical music developments occur in Normandy?,11th,1
+small,200,50,2,How successful was the French revised efforts?,"The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",1
+small,200,50,2,How many geomorphologic formations is Warsaw on?,two,1
+small,200,50,2,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1973,1
+small,200,50,2,To where did Ethelred flee?,Normandy,1
+small,200,50,2,"According to the text, how much money did the Host Committee raise?",over $40 million,1
+small,200,50,2,Which cultures are represented in the V&A's collections?,"Europe, North America, Asia and North Africa",1
+small,200,50,2,What is Norman art's most well known piece?,Bayeux Tapestry,1
+small,200,50,2,"Who called themselves the ""People's President""?",Odinga,0
+small,200,50,2,What was the advantage that the LOR method produced in the event of a spacecraft failure?,"spacecraft to be used as a ""lifeboat""",1
+small,200,50,2,What are the hairs on ctenophores called?,cilia,1
+small,200,50,2,Who helped develop the first man-made self-sustaining nuclear reaction?,Chicago's physics department,0
+small,200,50,2,Pneumatica was written by what Greek writer?,Philo of Byzantium,1
+small,200,50,2,Where is the chloroplast peripheral reticulum usually found?,in the chloroplasts of C4 plants,1
+small,200,50,2,How early did Luther say he had to awaken every day?,at four,0
+small,200,50,2,"What covered Scandinavia, the Baltics, Scotland, and the Alps in the last Ice Age?",ice-sheets,1
+small,200,50,2,"Where was an elected assembly to be set up, under the terms of the Scotland Act of 1978?",Edinburgh,1
+small,200,50,2,Which episode featured the return of William Hartnell?,The Three Doctors,1
+small,200,50,2,What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?,deficiencies,1
+small,200,50,2,What special audio recording was released for the 40th anniversary?,Zagreus,0
+small,200,50,2,Evolution of what part of the immune system occurred in the evolutionary ancestor of jawed vertebrates?,adaptive immune system,1
+small,200,50,2,The French church in Portarlington was built when?,1696,1
+small,200,50,2,What did he hope to locate underground?,mineral deposits,1
+small,200,50,2,When are the ashes now?,Nikola Tesla Museum,0
+small,200,50,2,What is the name of the post-independence government school system in Malaysia?,National School,1
+small,200,50,2,What colors was the 2001 ABC logo?,black-and-yellow,1
+small,200,50,2,What do those in the field do to ensure a positive outcome?,make detailed plans and maintain careful oversight,0
+small,200,50,2,After the Peterloo massacre what poet wrote The Massacre of Anarchy?,Percy Shelley,1
+small,200,50,2,What type of beings does Doctor Who usually take with him on his travels?,humans,1
+small,200,50,2,When is the oldest armed seal of Warsaw from?,1390,1
+small,200,50,2,Where did he live while he was looking good?,New York City,0
+small,200,50,2,What were the Saxon Palace and Brühl Palace in prewar Warsaw?,the most distinctive buildings,1
+small,200,50,2,What kind of human T cells respond to common molecules produced by microbes?,Vγ9/Vδ2 T cells,1
+small,200,50,2,Which Ancient Roman monument is replicated in full-scale in the Cast Courts?,Trajan's Column,1
+small,200,50,2,IP and AM are most commonly defined by what type of proof system?,Interactive,1
+small,200,50,2,What are the main sources of primary law?,the Treaties establishing the European Union,1
+small,200,50,2,By what document did the Huguenots confess their faith to the Portuguese in Brazil?,the Guanabara Confession of Faith,1
+small,200,50,2,What Irish cities had Huguenot mayors in the 1600s and 1700s?,"Dublin, Cork, Youghal and Waterford",1
+small,200,50,2,When was the first plastome sequenced?,1986,1
+small,200,50,2,What philosophy of thought  addresses wealth inequality?,Neoclassical economics,1
+small,200,50,2,What did Luther explain about acquiring God's grace?,cannot be earned,1
+small,200,50,2,To where is most of the abalone and lobster caught in Victorian waters shipped?,Asia,1
+small,200,50,2,What are cilia used for?,method of locomotion,1
+small,200,50,2,When were theories developed suggesting inequality may have some positive effect on economic development?,the 1970s,1
+small,200,50,2,What court is able to interpret European Union law?,The European Court of Justice,1
+small,200,50,2,What disease did Tesla catch?,cholera,1
+small,200,50,2,"Soon after gaining Florida, what did the English do?",constructed the King's Road,1
+small,200,50,2,What is the name of the Egyptian papyrus that suggests that they may have had knowledge of prime numbers?,the Rhind papyrus,1
+small,200,50,2,What animals did Tesla care for?,pigeons,1
+small,200,50,2,What was there a significant minority of in Warsaw?,Jewish,1
+small,200,50,2,What do pyrenoids store?,starch,1
+small,200,50,2,How many interceptions are the Panthers defense credited with in 2015?,24,1
+small,200,50,2,What was the rumored reason Edison and Tesla were not awarded the prize?,Tesla and/or Edison had refused the prize,1
+small,200,50,2,How high in altitude in feet could the vacuum chambers simulate?,"250,000 feet",1
+small,200,50,2,Cities that anchor the regions are often the hub for what kind of activity?,economic,1
+small,200,50,2,What is the active form of vitamin D known as?,calcitriol,1
+small,200,50,2,In what year will the Barack Obama Presidential Center be finished?,2020,1
+small,200,50,2,What type of lenses were needed to see the 3D effects in Dimension in Time?,glasses with one darkened lens,1
+small,200,50,2,The symbol for mercuric oxide is?,HgO,0
+small,200,50,2,Natural killer cells recognize cells that should be targeted by a condition known as what?,missing self,1
+small,200,50,2,How many miles east of Berlin is Warsaw?,325,1
+small,200,50,2,What is the main gap to continued urbanization?,Camp Pendleton,0
+small,200,50,2,What metal was used in Inalchuq's execution?,silver,1
+small,200,50,2,Who did the Panthers beat in the NFC Championship Game?,Arizona Cardinals,1
+small,200,50,2,What are some advantages of hospital pharmacies?,"Hospital pharmacies usually stock a larger range of medications, including more specialized medications",1
+small,200,50,2,What basin was formed when the Andes Mountains rose?,the Solimões Basin,1
+small,200,50,2,What effect does trade with poorer countries have on the workers in richer countries?,reduced wages,1
+small,200,50,2,What does the name Fresno mean in Spanish?,ash tree,1
+small,200,50,2,ENR used data on what to rank Top 400 firms as heavy contractors?,"transportation, sewer, hazardous waste and water",1
+small,200,50,2,What does it mean for a knot to be considered indecomposable?,it cannot be written as the knot sum of two nontrivial knots,1
+small,200,50,2,What was the name given to the undergraduate college's liberal-arts curriculum?,the Common Core,1
+small,200,50,2,What did this affair cause to Luther's reputation?,lasting damage,1
+small,200,50,2,What house was the site of a weaving school in Canterbury?,The Weavers,1
+small,200,50,2,This type of system is known as ,a plug-n-play system,0
+small,200,50,2,What type of combustion does the slow reaction of triplet oxygen prevent?,spontaneous,1
+small,200,50,2,What did the Polish citizens understand the subtext of John Paul II's words to be?,incentive for the democratic changes,1
+small,200,50,2,How long might a speaker address the members during the Time of Reflection?,up to four minutes,1
+small,200,50,2,What do chloroplasts use to fix carbon dioxide into sugar?,an enzyme called rubisco,1
+small,200,50,2,What monument is in memory of the largest insurrection of WWII?,Warsaw Uprising Monument,1
+small,200,50,2,How many miles from the north Sea is Newcastle?,8.5 mi,1
+small,200,50,2,Who set up what became the Second Polish Republic?,underground leader Piłsudski,1
+small,200,50,2,What animals does the Vistula river's ecosystem include?,"otter, beaver and hundreds of bird species",1
+small,200,50,2,"What month, every four years, are the ordinary general elections held on?",May,1
+small,200,50,2,What was the name of the Doctor Who-related song released in 1988?,Doctorin' the Tardis,1
+small,200,50,2,"What religion did the Yuan discourage, to support Buddhism?",Taoism,1
+small,200,50,2,What are chloroplasts descended from?,Cyanobacteria,0
+small,200,50,2,Who found that Protestants voted for Nazis more than Catholics?,Richard (Dick) Geary,1
+small,200,50,2,Whose army liberated Warsaw in 1806?,Napoleon's,0
+small,200,50,2,Who were the Semuren?,allied groups from Central Asia and the western end of the empire,1
+small,200,50,2,What did Tesla Electric Light & Manufacturing do?,installed electrical arc light based illumination systems designed by Tesla,1
+small,200,50,2,What name was given to the plot to usurp power from the French House of Guise?,Amboise plot,1
+small,200,50,2,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",Norman,1
+medium,400,80,2,How might gravity effects be observed differently according to Newton?,at larger distances.,1
+medium,400,80,2,What is the prize offered for finding a solution to P=NP?,"$1,000,000",1
+medium,400,80,2,What color were the Bronco's uniforms in Super Bowl 50?,white,1
+medium,400,80,2,What are the little tentacles that cydippids have called?,tentilla,1
+medium,400,80,2,Which lunar probe was near the Apollo 12 crew's landing site?,Surveyor 3,1
+medium,400,80,2,Electrolysis of what can be used to produce oxygen and hydrogen?,water,1
+medium,400,80,2,When was the Edict of Worms presented?,25 May 1521,1
+medium,400,80,2,How many other important people sent letters?,more than 70,1
+medium,400,80,2,What is an alternate way to make starch?,glucose monomers in the chloroplast can be linked together,1
+medium,400,80,2,What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?,X-ray image,1
+medium,400,80,2,Where did Maududi's books place Islam?,in a modern context,1
+medium,400,80,2,What is the process of constructing a building or infrastructure?,Construction,1
+medium,400,80,2,How many will the host committee dedicate to local charities?,25 percent,1
+medium,400,80,2,In what city is SAP Center located?,San Jose,0
+medium,400,80,2,"For what invention was U.S. Patent 1,655,114 granted?",VTOL aircraft,1
+medium,400,80,2,For what purpose is oxygen used by animal life?,cellular respiration,1
+medium,400,80,2,By which year did the American cars mpg start to improve?,1985,1
+medium,400,80,2,Which religion did Kublai prefer?,"Buddhism, especially the Tibetan variants",1
+medium,400,80,2,Early Western texts referencing the East describe the people as being what?,irrational and backward,1
+medium,400,80,2,Who is the NFL's vice president of brand and creative?,Jaime Weston,1
+medium,400,80,2,What does Obersee mean?,upper lake,0
+medium,400,80,2,What types of engines are steam engines?,external combustion,1
+medium,400,80,2,In what process are electrons recycled?,cyclic photophosphorylation,1
+medium,400,80,2,What third type of plea uses creative words?,creative plea,1
+medium,400,80,2,What objects in organisms absorb singlet oxygen to prevent harm?,Carotenoids,1
+medium,400,80,2,"In a market economy, what is inequality a reflection of?",productivity gap between highly-paid professions and lower-paid professions,1
+medium,400,80,2,"What interpretation of Islam is, for many of the adherents, the ""gold standard"" of their religion?",Saudi,1
+medium,400,80,2,Ctenophores are less complex than what other group?,bilaterians,1
+medium,400,80,2,Who was the NFL Commissioner in early 2012?,Roger Goodell,1
+medium,400,80,2,In contrast how were Catholic saints portrayed?,frail Catholic saints,1
+medium,400,80,2,Infrastructure is often called what?,"heavy/highway, heavy civil or heavy engineering",1
+medium,400,80,2,How many years does the V&A glass collection cover?,4000,1
+medium,400,80,2,What does ctenophore use to capture prey?,colloblasts,1
+medium,400,80,2,What did Luther speak out about in Saxony?,the Jews,1
+medium,400,80,2,What chemical element was the cause of the Apollo 1 disastrous outcome?,pure O,1
+medium,400,80,2,Approximately how many works of art are included in the Far Eastern collections?,"more than 70,000",1
+medium,400,80,2,How many types of science fiction have been impacted by Tesla?,several,1
+medium,400,80,2,What did he do with Wardenclyffe?,sold,1
+medium,400,80,2,Whose plan called for the Mongolian army to split in two after the Khwarezmian conquest?,Subutai,1
+medium,400,80,2,Where was Tesla's property sent?,Belgrade,1
+medium,400,80,2,When did Sunday Night Football premiere on NBC?,2006,1
+medium,400,80,2,How many paintings did John Sheeshanks give to the museum?,233,1
+medium,400,80,2,Who was made rich and prosperous prior to World War 1,many imperial powers,1
+medium,400,80,2,"After the Oligocene period, under what period did the amazon rainforest begin to expand?",Middle Miocene,1
+medium,400,80,2,Which retired ref disagreed with the outcome of the challenge of a incomplete pass?,Mike Carey,1
+medium,400,80,2,Where are health and social problems most common?,among states in the US with larger income inequalities,1
+medium,400,80,2,When was the plastome discovered?,1962,1
+medium,400,80,2,Which study showed double the rate of anxiety?,2012,1
+medium,400,80,2,What trading route joined Khwarezmia and the Mongol Empire?,the Silk Road,1
+medium,400,80,2,Where did Tesla work in Budapest?,a telegraph company,1
+medium,400,80,2,What is the name of one type of prime where p+1 or p-1 takes a certain shape?,primorial primes,1
+medium,400,80,2,Where is the Santa Fe Railroad Depot located?,Downtown Fresno,1
+medium,400,80,2,Who won the battle of Lake George?,"inconclusively, with both sides withdrawing from the field",1
+medium,400,80,2,Clergy are members of what group rather than of any local congregation?,their Annual Conference,1
+medium,400,80,2,"On December 22nd 2009, ABC reached an agreement with Apple to make ABC shows available on what service?",iTunes,1
+medium,400,80,2,Who did the Parliament rent additional buildings from?,City of Edinburgh Council,1
+medium,400,80,2,What style of lace is erroneously believed by some to have Huguenot influence?,'Bucks Point',1
+medium,400,80,2,Who led Richard's troops when Cyprus was conquered?,Guy de Lusignan,1
+medium,400,80,2,Who did Newton get a pass to in the Panther starting plays of Super Bowl 50?,Ted Ginn Jr.,1
+medium,400,80,2,When did Syria and Egypt launch a surprise attack on Israel?,"On October 6, 1973",1
+medium,400,80,2,The west side of Fresno is the center of which ethnic community?,African-American,1
+medium,400,80,2,How much did Tesla say Edison offered him to redesign his motor and generators?,fifty thousand dollars,1
+medium,400,80,2,By which year did full sized American cars shrink to be smaller?,1979,1
+medium,400,80,2,When did he talk about his thoughts on gender?,1926,1
+medium,400,80,2,Who led the Kievian Rus' troops against Subutai's Mongol army?,Mstislav the Bold of Halych and Mstislav III of Kiev,1
+medium,400,80,2,What do ctenophores have that no other animals have?,colloblasts,1
+medium,400,80,2,What impact did the high school education movement have on the wages of skilled workers?,decrease,1
+medium,400,80,2,What physical quantities do not have direction?,denoted scalar quantities,1
+medium,400,80,2,What cable provider did ABC reach an agreement with in 1993 to carry it's owned-and-operated stations in ABC O&O markets?,Time Warner Cable,1
+medium,400,80,2,Other than the desert city why do many locals and tourists frequent southern California?,beaches,1
+medium,400,80,2,Which network regained the ratings lead in America in 1984?,NBC,1
+medium,400,80,2,When did Paul Rand's iconic ABC logo first debut?,1963–64 season,1
+medium,400,80,2,"In an adjustable spring-loaded valve, what needs to be broken to allow an operator to tamper with it?",seal,1
+medium,400,80,2,How much Saharan dust is blown and falls upon the Caribbean Sea each year?,43 million tons,1
+medium,400,80,2,In what year was Nikola Tesla born? ,1856,1
+medium,400,80,2,What caused the US public to condemn the occupation of the philippines?,a war erupted,1
+medium,400,80,2,"When forces are from the presence of differnet objects, what law gives symmetry?",Newton's Third,1
+medium,400,80,2,What is rugby rapidly becoming with high schools?,an official school sport,1
+medium,400,80,2,What do apicoplasts synthesize?,"fatty acids, isopentenyl pyrophosphate, iron-sulfur clusters",1
+medium,400,80,2,What day did the Apollo 11 crew return to Earth?,July 24,1
+medium,400,80,2,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,1
+medium,400,80,2,When was a study conducted of Swedish counties?,between 1960 and 2000,1
+medium,400,80,2,How did Genghis Khan observed the surrender terms after Samarkand fell?,reneged,1
+medium,400,80,2,How many reptiles have been discovered in the Amazon region?,378,1
+medium,400,80,2,What planet did astrophysisist predict to explain the problems with Mercury?,Vulcan,1
+medium,400,80,2,What happens to the norm when a number is multiplied by p?,norm gets smaller,1
+medium,400,80,2,By what means were scientists able to liquefy air?,compressing and cooling,1
+medium,400,80,2,What's the name of Newcastle's speedway team?,Newcastle Diamonds,1
+medium,400,80,2,Who was Warsz?,12th/13th-century nobleman,1
+medium,400,80,2,What has a negative influence over the US economy?,The embargo,1
+medium,400,80,2,"The ""50"" given to the Super Bowl winner is plated with how many karats of gold?",18,1
+medium,400,80,2,Who was Cromwell's allies?,the Scots,0
+medium,400,80,2,Missing self desribes cells that only have small amounts of what cell-surface marker?,MHC I (major histocompatibility complex),1
+medium,400,80,2,What well-known archeologist believed the Amazon didn't have many inhabitants?,Betty Meggers,1
+medium,400,80,2,What kind of bureaucracy did the Normans institute?,meritocratic,0
+medium,400,80,2,"Other than warships, what ships typically required high speeds?",ocean liners,1
+medium,400,80,2,Where does two thirds of the Rhine flow outside of Germany?,Waal,1
+medium,400,80,2,What was the name of the King of the Scots?,William the Lion,1
+medium,400,80,2,Oxygen is released in cellular respiration by?,photosynthesis,1
+medium,400,80,2,When did the Jin dynasty end?,1234,1
+medium,400,80,2,What does the immune system protect against?,"pathogens, from viruses to parasitic worms",1
+medium,400,80,2,What is the final effect of adding more and more idea strings to a load?,conservation of mechanical energy,1
+medium,400,80,2,How many developed countries did British researchers use to gather statistics from?,23,1
+medium,400,80,2,How many ways did Luther justify his opposition to revolt?,on three grounds,1
+medium,400,80,2,How long ago was it when the water broke through the Purus Arch?,Within the last 5–10 million years,1
+medium,400,80,2,Who presented the Edict of Worms declaring Luther to be an outlaw?,Emperor,1
+medium,400,80,2,What did the acronym AAP stand for?,Apollo Applications Program,0
+medium,400,80,2,"Besides Germany and Switzerland, where else is Lake Constance?",Austria,1
+medium,400,80,2,What are more common in other plastids than chloroplasts?,Stromules,0
+medium,400,80,2,What could justify restrictions on freedom of establishment?,"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",1
+medium,400,80,2,What does the First Minister deliver at the beginning of each parliamentary year?,legislative programme for the forthcoming year,1
+medium,400,80,2,What is another term used for year 13?,upper sixth,1
+medium,400,80,2,Who does the Presiding Officer submit the final bill to?,the Monarch,1
+medium,400,80,2,What serves as a biological barrier by competing for space and food in the GI tract?,commensal flora,0
+medium,400,80,2,When did the FCC begin imposing fin-syn rules?,1970,1
+medium,400,80,2,How is oxygen ranked as abundant in the universe?,third,1
+medium,400,80,2,When did Pope Leo X  excommunicate Luther? ,3 January 1521,1
+medium,400,80,2,Where was the Central Secretariat based?,Khanbaliq,1
+medium,400,80,2,What prohibition agent was also an alumni at the university?,Eliot Ness,0
+medium,400,80,2,When did Astor provide the money?,1899,1
+medium,400,80,2,Who stripped the ball from Newton on a 3rd and nine?,Miller,1
+medium,400,80,2,What is the foundation for separation results within complexity classes?,time and space hierarchy theorems,1
+medium,400,80,2,How did Luther view the Ottoman Turks?,as a scourge,1
+medium,400,80,2,Why was Tanaghrisson supporting British efforts?,"regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",1
+medium,400,80,2,When is Luther commemorated by the Church of England?,31 October,1
+medium,400,80,2,Construction takes place on location for who?,a known client,1
+medium,400,80,2,When did the Democratic Republic of Afghanistan collapse?,1992,1
+medium,400,80,2,How many companies were listed on the WSE on August 2009?,374,1
+medium,400,80,2,To which trading route did Genghis Khan bring a stable political climate?,the Silk Road,1
+medium,400,80,2,Where did Jochi remain after Genghis Khan sent for his sons in the spring of 1223?,Khorasan,1
+medium,400,80,2,What did the NIF try to unify Islamist opposition against?,American attack on Iraq,1
+medium,400,80,2,What was the name of the first episode of the new Doctor Who series?,Rose,1
+medium,400,80,2,What role did Michael Oppenheimer have in the IPCC's reports?,coordinating lead author of the Fifth Assessment Report,1
+medium,400,80,2,What was an additional projected effect of the attempted reform?,this would have also produced a single constitutional document,1
+medium,400,80,2,What does it mean when a harmonic series diverges?,exceeds any given number,1
+medium,400,80,2,What seed was the Carolina Panthers?,number one,1
+medium,400,80,2,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,1
+medium,400,80,2,What makes DNA vulnerable to deamination?,when it is single stranded,1
+medium,400,80,2,How much dust is blown out of the Sahara each year?,182 million tons,1
+medium,400,80,2,Who discovered that magnetic and electric could self-generate?,Maxwell,1
+medium,400,80,2,The largest objects in the V&A ceramics and glass collection were produced in which countries?,Germany and Switzerland,1
+medium,400,80,2,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,graph isomorphism problem,1
+medium,400,80,2,What did Distributed Adaptive Message Block Switching do,"provide a fault-tolerant, efficient routing method for telecommunication messages",1
+medium,400,80,2,What individual is the school named after?,John Harvard,1
+medium,400,80,2,Where was Luther's last sermon preached?,Eisleben,1
+medium,400,80,2,How did the education during the high school education movement differ from the subsequent high school education?,designed to equip students with necessary skill sets to be able to perform at work,1
+medium,400,80,2,Who did the Panthers beat to become the NFC champs?,Arizona Cardinals,1
+medium,400,80,2,How many species of trees can be found in the Amazon rainforest?,"16,000",1
+medium,400,80,2,When did Buyantu resume testing potential government employees?,1313,1
+medium,400,80,2,What political party is strongest in Melbourne's working class suburbs?,Australian Labor Party,1
+medium,400,80,2,When did the Il-khanate experiment with paper money?,1294,1
+medium,400,80,2,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,1
+medium,400,80,2,How did William Shirley feel about French advancement?,British colonists would not be safe as long as the French were present,1
+medium,400,80,2,WHat did foreign clones of DATAPAC allow for ,A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address,1
+medium,400,80,2,In what century was quantum mechanics made? ,20th,0
+medium,400,80,2,In which continent besides Asia were major gains made by the British Empire in the late 19th century?,Middle East,1
+medium,400,80,2,What was the first true engine that was commercially successful?,atmospheric engine,1
+medium,400,80,2,Who captured and held Temüjin prisoner around 1177?,the Tayichi'ud,1
+medium,400,80,2,What is the eighth most populous city in the nation?,San Diego,1
+medium,400,80,2,What does the chloroplast peripheral reticulum do?,increase the chloroplast's surface area for cross-membrane transport,1
+medium,400,80,2,What is the process of turning CO2 into organic molecules called?,the Calvin cycle,1
+medium,400,80,2,What does AFC stand for?,American Football Conference,1
+medium,400,80,2,What was the U.S. Information Agency charged with doing during the Cold War?,undermining the communist ideology,1
+medium,400,80,2,What famous musician starred in Stormy Monday?,Sting,1
+medium,400,80,2,The university's center in Beijing is located next to what school's campus?,Renmin University,1
+medium,400,80,2,How many points did the Broncos score in the last three minutes of the game versus Pittsburgh?,11,1
+medium,400,80,2,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,Laszlo Babai and Eugene Luks,1
+medium,400,80,2,"Since January 2012, all ABC programming has been presented in what format?",HD,0
+medium,400,80,2,In the layered model of the Earth there are seismic discontinuities in which layer? ,the mantle,1
+medium,400,80,2,For about how long would the extended LM allow a surface stay on the moon?,3 days,1
+medium,400,80,2,What campaign did the Communist regime initiate after WWII?,"""Bricks for Warsaw""",0
+medium,400,80,2,"In what year were the Distinguished Service Medals awarded to Grissom, White, and Chaffee?",1969,1
+medium,400,80,2,"If two thirds of the Rhine flows through the Maas, where doe the other one third flow through?",Pannerdens Kanaal,1
+medium,400,80,2,In what year did Tesla go to Budapest?,1881,1
+medium,400,80,2,How old was tesla when he became a US citizen?,35,1
+medium,400,80,2,Who donated property to the University of Chicago?,Marshall Field,1
+medium,400,80,2,What ruined Richard's plans to reach Acre?,a storm,0
+medium,400,80,2,Why aren't some forms of Hæmatococcus pluvialis green?,accessory pigments that override the chlorophylls' green colors,1
+medium,400,80,2,What is tertiary education?,universities and/or TAFE colleges,1
+medium,400,80,2,What language is used to educate in Wales?,Welsh,1
+medium,400,80,2,Who was the first person to play the Master?,Roger Delgado,1
+medium,400,80,2,Who included 1 as the first prime number in the mid 18th century?,Christian Goldbach,1
+medium,400,80,2,How frequent is snow in the Southwest of the state?,very rare,1
+medium,400,80,2,Where did water to the east of the Amazon drainage basin flow towards?,the Atlantic,1
+medium,400,80,2,What reconstructions supported the 1999 paper's information?,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",1
+medium,400,80,2,Where did France win a war in the 1950's,Algeria,1
+medium,400,80,2,There are other categories for what?,"construction service firms (e.g., engineering, architecture) and construction managers",1
+medium,400,80,2,How many atoms combine to form dioxygen?,two atoms,0
+medium,400,80,2,Where is the chloroplast peripheral reticulum less commonly found?,"in some C3 angiosperms, and even some gymnosperms",1
+medium,400,80,2,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,1606,1
+medium,400,80,2,What does critically tapered mean? ,all angles remain the same,0
+medium,400,80,2,The flushing action of what expels pathogens from the eyes?,tears,1
+medium,400,80,2,Who were Temüjin's three full brothers?,"Hasar, Hachiun, and Temüge",1
+medium,400,80,2,How great were the losses suffered in the the financial crisis of 2008-09 to Harvard endowment?,30% loss,1
+medium,400,80,2,How did this effect the producer prices?,", helped to increase local producer prices by 20–25%",0
+medium,400,80,2,What motivation is opportunity-based entrepreneurship driven by?,achievement-oriented,1
+medium,400,80,2,"What country has a problem with classroom discipline, even though scores on tests are high?",Japan,1
+medium,400,80,2,Which company was tasked with trying to restore the original tapes?,Lowry Digital,1
+medium,400,80,2,What event would necessitate airline passengers to need a supplemental supply of oxygen? ,cabin depressurization,1
+medium,400,80,2,What river runs through Warsaw?,Vistula River,1
+medium,400,80,2,The National Art Library at the V&A is known by what other name?,Word and Image Department,1
+medium,400,80,2,How many years had Thomas Davis played in the league when he broke his arm during the NFC Championship game?,11,1
+medium,400,80,2,"What, rather than Islamism, requires explanation?",non-political Islam,1
+medium,400,80,2,Which theorem states that every large even integer can be written as a prime summed with a semiprime?,Chen's theorem,1
+medium,400,80,2,How was scarcity managed in many countries?,rationing,1
+medium,400,80,2,What did the non-Afghan veterans returning home have in addition to their prestige?,considerable impact,1
+medium,400,80,2,To what is singlet oxygen more reactive?,organic molecules,1
+medium,400,80,2,Which Louisiana venue was one of three considered for Super Bowl 50?,New Orleans' Mercedes-Benz Superdome,1
+medium,400,80,2,In what century did important classical music developments occur in Normandy?,11th,1
+medium,400,80,2,How successful was the French revised efforts?,"The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",1
+medium,400,80,2,How many geomorphologic formations is Warsaw on?,two,1
+medium,400,80,2,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1973,1
+medium,400,80,2,To where did Ethelred flee?,Normandy,1
+medium,400,80,2,"According to the text, how much money did the Host Committee raise?",over $40 million,1
+medium,400,80,2,Which cultures are represented in the V&A's collections?,"Europe, North America, Asia and North Africa",1
+medium,400,80,2,What is Norman art's most well known piece?,Bayeux Tapestry,1
+medium,400,80,2,"Who called themselves the ""People's President""?",Odinga,0
+medium,400,80,2,What was the advantage that the LOR method produced in the event of a spacecraft failure?,"spacecraft to be used as a ""lifeboat""",1
+medium,400,80,2,What are the hairs on ctenophores called?,cilia,1
+medium,400,80,2,Who helped develop the first man-made self-sustaining nuclear reaction?,Chicago's physics department,0
+medium,400,80,2,Pneumatica was written by what Greek writer?,Philo of Byzantium,1
+medium,400,80,2,Where is the chloroplast peripheral reticulum usually found?,in the chloroplasts of C4 plants,1
+medium,400,80,2,How early did Luther say he had to awaken every day?,at four,0
+medium,400,80,2,"What covered Scandinavia, the Baltics, Scotland, and the Alps in the last Ice Age?",ice-sheets,1
+medium,400,80,2,"Where was an elected assembly to be set up, under the terms of the Scotland Act of 1978?",Edinburgh,1
+medium,400,80,2,Which episode featured the return of William Hartnell?,The Three Doctors,1
+medium,400,80,2,What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?,deficiencies,1
+medium,400,80,2,What special audio recording was released for the 40th anniversary?,Zagreus,0
+medium,400,80,2,Evolution of what part of the immune system occurred in the evolutionary ancestor of jawed vertebrates?,adaptive immune system,1
+medium,400,80,2,The French church in Portarlington was built when?,1696,1
+medium,400,80,2,What did he hope to locate underground?,mineral deposits,1
+medium,400,80,2,When are the ashes now?,Nikola Tesla Museum,0
+medium,400,80,2,What is the name of the post-independence government school system in Malaysia?,National School,1
+medium,400,80,2,What colors was the 2001 ABC logo?,black-and-yellow,1
+medium,400,80,2,What do those in the field do to ensure a positive outcome?,make detailed plans and maintain careful oversight,0
+medium,400,80,2,After the Peterloo massacre what poet wrote The Massacre of Anarchy?,Percy Shelley,1
+medium,400,80,2,What type of beings does Doctor Who usually take with him on his travels?,humans,1
+medium,400,80,2,When is the oldest armed seal of Warsaw from?,1390,1
+medium,400,80,2,Where did he live while he was looking good?,New York City,0
+medium,400,80,2,What were the Saxon Palace and Brühl Palace in prewar Warsaw?,the most distinctive buildings,1
+medium,400,80,2,What kind of human T cells respond to common molecules produced by microbes?,Vγ9/Vδ2 T cells,1
+medium,400,80,2,Which Ancient Roman monument is replicated in full-scale in the Cast Courts?,Trajan's Column,1
+medium,400,80,2,IP and AM are most commonly defined by what type of proof system?,Interactive,1
+medium,400,80,2,What are the main sources of primary law?,the Treaties establishing the European Union,1
+medium,400,80,2,By what document did the Huguenots confess their faith to the Portuguese in Brazil?,the Guanabara Confession of Faith,1
+medium,400,80,2,What Irish cities had Huguenot mayors in the 1600s and 1700s?,"Dublin, Cork, Youghal and Waterford",1
+medium,400,80,2,When was the first plastome sequenced?,1986,1
+medium,400,80,2,What philosophy of thought  addresses wealth inequality?,Neoclassical economics,1
+medium,400,80,2,What did Luther explain about acquiring God's grace?,cannot be earned,1
+medium,400,80,2,To where is most of the abalone and lobster caught in Victorian waters shipped?,Asia,1
+medium,400,80,2,What are cilia used for?,method of locomotion,1
+medium,400,80,2,When were theories developed suggesting inequality may have some positive effect on economic development?,the 1970s,1
+medium,400,80,2,What court is able to interpret European Union law?,The European Court of Justice,1
+medium,400,80,2,What disease did Tesla catch?,cholera,1
+medium,400,80,2,"Soon after gaining Florida, what did the English do?",constructed the King's Road,1
+medium,400,80,2,What is the name of the Egyptian papyrus that suggests that they may have had knowledge of prime numbers?,the Rhind papyrus,1
+medium,400,80,2,What animals did Tesla care for?,pigeons,1
+medium,400,80,2,What was there a significant minority of in Warsaw?,Jewish,1
+medium,400,80,2,What do pyrenoids store?,starch,1
+medium,400,80,2,How many interceptions are the Panthers defense credited with in 2015?,24,1
+medium,400,80,2,What was the rumored reason Edison and Tesla were not awarded the prize?,Tesla and/or Edison had refused the prize,1
+medium,400,80,2,How high in altitude in feet could the vacuum chambers simulate?,"250,000 feet",1
+medium,400,80,2,Cities that anchor the regions are often the hub for what kind of activity?,economic,1
+medium,400,80,2,What is the active form of vitamin D known as?,calcitriol,1
+medium,400,80,2,In what year will the Barack Obama Presidential Center be finished?,2020,1
+medium,400,80,2,What type of lenses were needed to see the 3D effects in Dimension in Time?,glasses with one darkened lens,1
+medium,400,80,2,The symbol for mercuric oxide is?,HgO,0
+medium,400,80,2,Natural killer cells recognize cells that should be targeted by a condition known as what?,missing self,1
+medium,400,80,2,How many miles east of Berlin is Warsaw?,325,1
+medium,400,80,2,What is the main gap to continued urbanization?,Camp Pendleton,0
+medium,400,80,2,What metal was used in Inalchuq's execution?,silver,1
+medium,400,80,2,Who did the Panthers beat in the NFC Championship Game?,Arizona Cardinals,1
+medium,400,80,2,What are some advantages of hospital pharmacies?,"Hospital pharmacies usually stock a larger range of medications, including more specialized medications",1
+medium,400,80,2,What basin was formed when the Andes Mountains rose?,the Solimões Basin,1
+medium,400,80,2,What effect does trade with poorer countries have on the workers in richer countries?,reduced wages,1
+medium,400,80,2,What does the name Fresno mean in Spanish?,ash tree,1
+medium,400,80,2,ENR used data on what to rank Top 400 firms as heavy contractors?,"transportation, sewer, hazardous waste and water",1
+medium,400,80,2,What does it mean for a knot to be considered indecomposable?,it cannot be written as the knot sum of two nontrivial knots,1
+medium,400,80,2,What was the name given to the undergraduate college's liberal-arts curriculum?,the Common Core,1
+medium,400,80,2,What did this affair cause to Luther's reputation?,lasting damage,1
+medium,400,80,2,What house was the site of a weaving school in Canterbury?,The Weavers,1
+medium,400,80,2,This type of system is known as ,a plug-n-play system,0
+medium,400,80,2,What type of combustion does the slow reaction of triplet oxygen prevent?,spontaneous,1
+medium,400,80,2,What did the Polish citizens understand the subtext of John Paul II's words to be?,incentive for the democratic changes,1
+medium,400,80,2,How long might a speaker address the members during the Time of Reflection?,up to four minutes,1
+medium,400,80,2,What do chloroplasts use to fix carbon dioxide into sugar?,an enzyme called rubisco,1
+medium,400,80,2,What monument is in memory of the largest insurrection of WWII?,Warsaw Uprising Monument,1
+medium,400,80,2,How many miles from the north Sea is Newcastle?,8.5 mi,1
+medium,400,80,2,Who set up what became the Second Polish Republic?,underground leader Piłsudski,1
+medium,400,80,2,What animals does the Vistula river's ecosystem include?,"otter, beaver and hundreds of bird species",1
+medium,400,80,2,"What month, every four years, are the ordinary general elections held on?",May,1
+medium,400,80,2,What was the name of the Doctor Who-related song released in 1988?,Doctorin' the Tardis,1
+medium,400,80,2,"What religion did the Yuan discourage, to support Buddhism?",Taoism,1
+medium,400,80,2,What are chloroplasts descended from?,Cyanobacteria,0
+medium,400,80,2,Who found that Protestants voted for Nazis more than Catholics?,Richard (Dick) Geary,1
+medium,400,80,2,Whose army liberated Warsaw in 1806?,Napoleon's,0
+medium,400,80,2,Who were the Semuren?,allied groups from Central Asia and the western end of the empire,1
+medium,400,80,2,What did Tesla Electric Light & Manufacturing do?,installed electrical arc light based illumination systems designed by Tesla,1
+medium,400,80,2,What name was given to the plot to usurp power from the French House of Guise?,Amboise plot,1
+medium,400,80,2,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",Norman,1
+large,800,120,2,How might gravity effects be observed differently according to Newton?,at larger distances.,1
+large,800,120,2,What is the prize offered for finding a solution to P=NP?,"$1,000,000",1
+large,800,120,2,What color were the Bronco's uniforms in Super Bowl 50?,white,1
+large,800,120,2,What are the little tentacles that cydippids have called?,tentilla,1
+large,800,120,2,Which lunar probe was near the Apollo 12 crew's landing site?,Surveyor 3,1
+large,800,120,2,Electrolysis of what can be used to produce oxygen and hydrogen?,water,1
+large,800,120,2,When was the Edict of Worms presented?,25 May 1521,1
+large,800,120,2,How many other important people sent letters?,more than 70,1
+large,800,120,2,What is an alternate way to make starch?,glucose monomers in the chloroplast can be linked together,1
+large,800,120,2,What type of image was Tesla thought to have accidentally taken a week prior to the announcement of its discovery?,X-ray image,1
+large,800,120,2,Where did Maududi's books place Islam?,in a modern context,1
+large,800,120,2,What is the process of constructing a building or infrastructure?,Construction,1
+large,800,120,2,How many will the host committee dedicate to local charities?,25 percent,1
+large,800,120,2,In what city is SAP Center located?,San Jose,0
+large,800,120,2,"For what invention was U.S. Patent 1,655,114 granted?",VTOL aircraft,1
+large,800,120,2,For what purpose is oxygen used by animal life?,cellular respiration,1
+large,800,120,2,By which year did the American cars mpg start to improve?,1985,1
+large,800,120,2,Which religion did Kublai prefer?,"Buddhism, especially the Tibetan variants",1
+large,800,120,2,Early Western texts referencing the East describe the people as being what?,irrational and backward,1
+large,800,120,2,Who is the NFL's vice president of brand and creative?,Jaime Weston,1
+large,800,120,2,What does Obersee mean?,upper lake,0
+large,800,120,2,What types of engines are steam engines?,external combustion,1
+large,800,120,2,In what process are electrons recycled?,cyclic photophosphorylation,1
+large,800,120,2,What third type of plea uses creative words?,creative plea,1
+large,800,120,2,What objects in organisms absorb singlet oxygen to prevent harm?,Carotenoids,1
+large,800,120,2,"In a market economy, what is inequality a reflection of?",productivity gap between highly-paid professions and lower-paid professions,1
+large,800,120,2,"What interpretation of Islam is, for many of the adherents, the ""gold standard"" of their religion?",Saudi,1
+large,800,120,2,Ctenophores are less complex than what other group?,bilaterians,1
+large,800,120,2,Who was the NFL Commissioner in early 2012?,Roger Goodell,1
+large,800,120,2,In contrast how were Catholic saints portrayed?,frail Catholic saints,1
+large,800,120,2,Infrastructure is often called what?,"heavy/highway, heavy civil or heavy engineering",1
+large,800,120,2,How many years does the V&A glass collection cover?,4000,1
+large,800,120,2,What does ctenophore use to capture prey?,colloblasts,1
+large,800,120,2,What did Luther speak out about in Saxony?,the Jews,1
+large,800,120,2,What chemical element was the cause of the Apollo 1 disastrous outcome?,pure O,1
+large,800,120,2,Approximately how many works of art are included in the Far Eastern collections?,"more than 70,000",1
+large,800,120,2,How many types of science fiction have been impacted by Tesla?,several,1
+large,800,120,2,What did he do with Wardenclyffe?,sold,1
+large,800,120,2,Whose plan called for the Mongolian army to split in two after the Khwarezmian conquest?,Subutai,1
+large,800,120,2,Where was Tesla's property sent?,Belgrade,1
+large,800,120,2,When did Sunday Night Football premiere on NBC?,2006,1
+large,800,120,2,How many paintings did John Sheeshanks give to the museum?,233,1
+large,800,120,2,Who was made rich and prosperous prior to World War 1,many imperial powers,1
+large,800,120,2,"After the Oligocene period, under what period did the amazon rainforest begin to expand?",Middle Miocene,1
+large,800,120,2,Which retired ref disagreed with the outcome of the challenge of a incomplete pass?,Mike Carey,1
+large,800,120,2,Where are health and social problems most common?,among states in the US with larger income inequalities,1
+large,800,120,2,When was the plastome discovered?,1962,1
+large,800,120,2,Which study showed double the rate of anxiety?,2012,1
+large,800,120,2,What trading route joined Khwarezmia and the Mongol Empire?,the Silk Road,1
+large,800,120,2,Where did Tesla work in Budapest?,a telegraph company,1
+large,800,120,2,What is the name of one type of prime where p+1 or p-1 takes a certain shape?,primorial primes,1
+large,800,120,2,Where is the Santa Fe Railroad Depot located?,Downtown Fresno,1
+large,800,120,2,Who won the battle of Lake George?,"inconclusively, with both sides withdrawing from the field",1
+large,800,120,2,Clergy are members of what group rather than of any local congregation?,their Annual Conference,1
+large,800,120,2,"On December 22nd 2009, ABC reached an agreement with Apple to make ABC shows available on what service?",iTunes,1
+large,800,120,2,Who did the Parliament rent additional buildings from?,City of Edinburgh Council,1
+large,800,120,2,What style of lace is erroneously believed by some to have Huguenot influence?,'Bucks Point',1
+large,800,120,2,Who led Richard's troops when Cyprus was conquered?,Guy de Lusignan,1
+large,800,120,2,Who did Newton get a pass to in the Panther starting plays of Super Bowl 50?,Ted Ginn Jr.,1
+large,800,120,2,When did Syria and Egypt launch a surprise attack on Israel?,"On October 6, 1973",1
+large,800,120,2,The west side of Fresno is the center of which ethnic community?,African-American,1
+large,800,120,2,How much did Tesla say Edison offered him to redesign his motor and generators?,fifty thousand dollars,1
+large,800,120,2,By which year did full sized American cars shrink to be smaller?,1979,1
+large,800,120,2,When did he talk about his thoughts on gender?,1926,1
+large,800,120,2,Who led the Kievian Rus' troops against Subutai's Mongol army?,Mstislav the Bold of Halych and Mstislav III of Kiev,1
+large,800,120,2,What do ctenophores have that no other animals have?,colloblasts,1
+large,800,120,2,What impact did the high school education movement have on the wages of skilled workers?,decrease,1
+large,800,120,2,What physical quantities do not have direction?,denoted scalar quantities,1
+large,800,120,2,What cable provider did ABC reach an agreement with in 1993 to carry it's owned-and-operated stations in ABC O&O markets?,Time Warner Cable,1
+large,800,120,2,Other than the desert city why do many locals and tourists frequent southern California?,beaches,1
+large,800,120,2,Which network regained the ratings lead in America in 1984?,NBC,1
+large,800,120,2,When did Paul Rand's iconic ABC logo first debut?,1963–64 season,1
+large,800,120,2,"In an adjustable spring-loaded valve, what needs to be broken to allow an operator to tamper with it?",seal,1
+large,800,120,2,How much Saharan dust is blown and falls upon the Caribbean Sea each year?,43 million tons,1
+large,800,120,2,In what year was Nikola Tesla born? ,1856,1
+large,800,120,2,What caused the US public to condemn the occupation of the philippines?,a war erupted,1
+large,800,120,2,"When forces are from the presence of differnet objects, what law gives symmetry?",Newton's Third,1
+large,800,120,2,What is rugby rapidly becoming with high schools?,an official school sport,1
+large,800,120,2,What do apicoplasts synthesize?,"fatty acids, isopentenyl pyrophosphate, iron-sulfur clusters",1
+large,800,120,2,What day did the Apollo 11 crew return to Earth?,July 24,1
+large,800,120,2,"Other than land laws, what else were the Californios dissatisfied with?",inequitable taxes,1
+large,800,120,2,When was a study conducted of Swedish counties?,between 1960 and 2000,1
+large,800,120,2,How did Genghis Khan observed the surrender terms after Samarkand fell?,reneged,1
+large,800,120,2,How many reptiles have been discovered in the Amazon region?,378,1
+large,800,120,2,What planet did astrophysisist predict to explain the problems with Mercury?,Vulcan,1
+large,800,120,2,What happens to the norm when a number is multiplied by p?,norm gets smaller,1
+large,800,120,2,By what means were scientists able to liquefy air?,compressing and cooling,1
+large,800,120,2,What's the name of Newcastle's speedway team?,Newcastle Diamonds,1
+large,800,120,2,Who was Warsz?,12th/13th-century nobleman,1
+large,800,120,2,What has a negative influence over the US economy?,The embargo,1
+large,800,120,2,"The ""50"" given to the Super Bowl winner is plated with how many karats of gold?",18,1
+large,800,120,2,Who was Cromwell's allies?,the Scots,0
+large,800,120,2,Missing self desribes cells that only have small amounts of what cell-surface marker?,MHC I (major histocompatibility complex),1
+large,800,120,2,What well-known archeologist believed the Amazon didn't have many inhabitants?,Betty Meggers,1
+large,800,120,2,What kind of bureaucracy did the Normans institute?,meritocratic,0
+large,800,120,2,"Other than warships, what ships typically required high speeds?",ocean liners,1
+large,800,120,2,Where does two thirds of the Rhine flow outside of Germany?,Waal,1
+large,800,120,2,What was the name of the King of the Scots?,William the Lion,1
+large,800,120,2,Oxygen is released in cellular respiration by?,photosynthesis,1
+large,800,120,2,When did the Jin dynasty end?,1234,1
+large,800,120,2,What does the immune system protect against?,"pathogens, from viruses to parasitic worms",1
+large,800,120,2,What is the final effect of adding more and more idea strings to a load?,conservation of mechanical energy,1
+large,800,120,2,How many developed countries did British researchers use to gather statistics from?,23,1
+large,800,120,2,How many ways did Luther justify his opposition to revolt?,on three grounds,1
+large,800,120,2,How long ago was it when the water broke through the Purus Arch?,Within the last 5–10 million years,1
+large,800,120,2,Who presented the Edict of Worms declaring Luther to be an outlaw?,Emperor,1
+large,800,120,2,What did the acronym AAP stand for?,Apollo Applications Program,0
+large,800,120,2,"Besides Germany and Switzerland, where else is Lake Constance?",Austria,1
+large,800,120,2,What are more common in other plastids than chloroplasts?,Stromules,0
+large,800,120,2,What could justify restrictions on freedom of establishment?,"creditor protection, labour rights to participate in work, or the public interest in collecting taxes",1
+large,800,120,2,What does the First Minister deliver at the beginning of each parliamentary year?,legislative programme for the forthcoming year,1
+large,800,120,2,What is another term used for year 13?,upper sixth,1
+large,800,120,2,Who does the Presiding Officer submit the final bill to?,the Monarch,1
+large,800,120,2,What serves as a biological barrier by competing for space and food in the GI tract?,commensal flora,0
+large,800,120,2,When did the FCC begin imposing fin-syn rules?,1970,1
+large,800,120,2,How is oxygen ranked as abundant in the universe?,third,1
+large,800,120,2,When did Pope Leo X  excommunicate Luther? ,3 January 1521,1
+large,800,120,2,Where was the Central Secretariat based?,Khanbaliq,1
+large,800,120,2,What prohibition agent was also an alumni at the university?,Eliot Ness,0
+large,800,120,2,When did Astor provide the money?,1899,1
+large,800,120,2,Who stripped the ball from Newton on a 3rd and nine?,Miller,1
+large,800,120,2,What is the foundation for separation results within complexity classes?,time and space hierarchy theorems,1
+large,800,120,2,How did Luther view the Ottoman Turks?,as a scourge,1
+large,800,120,2,Why was Tanaghrisson supporting British efforts?,"regain authority over his own people. They had been inclined to support the French, with whom they had long trading relationships",1
+large,800,120,2,When is Luther commemorated by the Church of England?,31 October,1
+large,800,120,2,Construction takes place on location for who?,a known client,1
+large,800,120,2,When did the Democratic Republic of Afghanistan collapse?,1992,1
+large,800,120,2,How many companies were listed on the WSE on August 2009?,374,1
+large,800,120,2,To which trading route did Genghis Khan bring a stable political climate?,the Silk Road,1
+large,800,120,2,Where did Jochi remain after Genghis Khan sent for his sons in the spring of 1223?,Khorasan,1
+large,800,120,2,What did the NIF try to unify Islamist opposition against?,American attack on Iraq,1
+large,800,120,2,What was the name of the first episode of the new Doctor Who series?,Rose,1
+large,800,120,2,What role did Michael Oppenheimer have in the IPCC's reports?,coordinating lead author of the Fifth Assessment Report,1
+large,800,120,2,What was an additional projected effect of the attempted reform?,this would have also produced a single constitutional document,1
+large,800,120,2,What does it mean when a harmonic series diverges?,exceeds any given number,1
+large,800,120,2,What seed was the Carolina Panthers?,number one,1
+large,800,120,2,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",21,1
+large,800,120,2,What makes DNA vulnerable to deamination?,when it is single stranded,1
+large,800,120,2,How much dust is blown out of the Sahara each year?,182 million tons,1
+large,800,120,2,Who discovered that magnetic and electric could self-generate?,Maxwell,1
+large,800,120,2,The largest objects in the V&A ceramics and glass collection were produced in which countries?,Germany and Switzerland,1
+large,800,120,2,What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ,graph isomorphism problem,1
+large,800,120,2,What did Distributed Adaptive Message Block Switching do,"provide a fault-tolerant, efficient routing method for telecommunication messages",1
+large,800,120,2,What individual is the school named after?,John Harvard,1
+large,800,120,2,Where was Luther's last sermon preached?,Eisleben,1
+large,800,120,2,How did the education during the high school education movement differ from the subsequent high school education?,designed to equip students with necessary skill sets to be able to perform at work,1
+large,800,120,2,Who did the Panthers beat to become the NFC champs?,Arizona Cardinals,1
+large,800,120,2,How many species of trees can be found in the Amazon rainforest?,"16,000",1
+large,800,120,2,When did Buyantu resume testing potential government employees?,1313,1
+large,800,120,2,What political party is strongest in Melbourne's working class suburbs?,Australian Labor Party,1
+large,800,120,2,When did the Il-khanate experiment with paper money?,1294,1
+large,800,120,2,"In considering Turing machines and alternate variables, what measurement left unaffected by conversion between machine models? ",computational power,1
+large,800,120,2,How did William Shirley feel about French advancement?,British colonists would not be safe as long as the French were present,1
+large,800,120,2,WHat did foreign clones of DATAPAC allow for ,A user or host could call a host on a foreign network by including the DNIC of the remote network as part of the destination address,1
+large,800,120,2,In what century was quantum mechanics made? ,20th,0
+large,800,120,2,In which continent besides Asia were major gains made by the British Empire in the late 19th century?,Middle East,1
+large,800,120,2,What was the first true engine that was commercially successful?,atmospheric engine,1
+large,800,120,2,Who captured and held Temüjin prisoner around 1177?,the Tayichi'ud,1
+large,800,120,2,What is the eighth most populous city in the nation?,San Diego,1
+large,800,120,2,What does the chloroplast peripheral reticulum do?,increase the chloroplast's surface area for cross-membrane transport,1
+large,800,120,2,What is the process of turning CO2 into organic molecules called?,the Calvin cycle,1
+large,800,120,2,What does AFC stand for?,American Football Conference,1
+large,800,120,2,What was the U.S. Information Agency charged with doing during the Cold War?,undermining the communist ideology,1
+large,800,120,2,What famous musician starred in Stormy Monday?,Sting,1
+large,800,120,2,The university's center in Beijing is located next to what school's campus?,Renmin University,1
+large,800,120,2,How many points did the Broncos score in the last three minutes of the game versus Pittsburgh?,11,1
+large,800,120,2,Who are commonly associated with the algorithm typically considered the most effective with respect to finite polynomial hierarchy and graph isomorphism?,Laszlo Babai and Eugene Luks,1
+large,800,120,2,"Since January 2012, all ABC programming has been presented in what format?",HD,0
+large,800,120,2,In the layered model of the Earth there are seismic discontinuities in which layer? ,the mantle,1
+large,800,120,2,For about how long would the extended LM allow a surface stay on the moon?,3 days,1
+large,800,120,2,What campaign did the Communist regime initiate after WWII?,"""Bricks for Warsaw""",0
+large,800,120,2,"In what year were the Distinguished Service Medals awarded to Grissom, White, and Chaffee?",1969,1
+large,800,120,2,"If two thirds of the Rhine flows through the Maas, where doe the other one third flow through?",Pannerdens Kanaal,1
+large,800,120,2,In what year did Tesla go to Budapest?,1881,1
+large,800,120,2,How old was tesla when he became a US citizen?,35,1
+large,800,120,2,Who donated property to the University of Chicago?,Marshall Field,1
+large,800,120,2,What ruined Richard's plans to reach Acre?,a storm,0
+large,800,120,2,Why aren't some forms of Hæmatococcus pluvialis green?,accessory pigments that override the chlorophylls' green colors,1
+large,800,120,2,What is tertiary education?,universities and/or TAFE colleges,1
+large,800,120,2,What language is used to educate in Wales?,Welsh,1
+large,800,120,2,Who was the first person to play the Master?,Roger Delgado,1
+large,800,120,2,Who included 1 as the first prime number in the mid 18th century?,Christian Goldbach,1
+large,800,120,2,How frequent is snow in the Southwest of the state?,very rare,1
+large,800,120,2,Where did water to the east of the Amazon drainage basin flow towards?,the Atlantic,1
+large,800,120,2,What reconstructions supported the 1999 paper's information?,"Jones et al. 1998, Pollack, Huang & Shen 1998, Crowley & Lowery 2000 and Briffa 2000",1
+large,800,120,2,Where did France win a war in the 1950's,Algeria,1
+large,800,120,2,There are other categories for what?,"construction service firms (e.g., engineering, architecture) and construction managers",1
+large,800,120,2,How many atoms combine to form dioxygen?,two atoms,0
+large,800,120,2,Where is the chloroplast peripheral reticulum less commonly found?,"in some C3 angiosperms, and even some gymnosperms",1
+large,800,120,2,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,1606,1
+large,800,120,2,What does critically tapered mean? ,all angles remain the same,0
+large,800,120,2,The flushing action of what expels pathogens from the eyes?,tears,1
+large,800,120,2,Who were Temüjin's three full brothers?,"Hasar, Hachiun, and Temüge",1
+large,800,120,2,How great were the losses suffered in the the financial crisis of 2008-09 to Harvard endowment?,30% loss,1
+large,800,120,2,How did this effect the producer prices?,", helped to increase local producer prices by 20–25%",0
+large,800,120,2,What motivation is opportunity-based entrepreneurship driven by?,achievement-oriented,1
+large,800,120,2,"What country has a problem with classroom discipline, even though scores on tests are high?",Japan,1
+large,800,120,2,Which company was tasked with trying to restore the original tapes?,Lowry Digital,1
+large,800,120,2,What event would necessitate airline passengers to need a supplemental supply of oxygen? ,cabin depressurization,1
+large,800,120,2,What river runs through Warsaw?,Vistula River,1
+large,800,120,2,The National Art Library at the V&A is known by what other name?,Word and Image Department,1
+large,800,120,2,How many years had Thomas Davis played in the league when he broke his arm during the NFC Championship game?,11,1
+large,800,120,2,"What, rather than Islamism, requires explanation?",non-political Islam,1
+large,800,120,2,Which theorem states that every large even integer can be written as a prime summed with a semiprime?,Chen's theorem,1
+large,800,120,2,How was scarcity managed in many countries?,rationing,1
+large,800,120,2,What did the non-Afghan veterans returning home have in addition to their prestige?,considerable impact,1
+large,800,120,2,To what is singlet oxygen more reactive?,organic molecules,1
+large,800,120,2,Which Louisiana venue was one of three considered for Super Bowl 50?,New Orleans' Mercedes-Benz Superdome,1
+large,800,120,2,In what century did important classical music developments occur in Normandy?,11th,1
+large,800,120,2,How successful was the French revised efforts?,"The invasion failed both militarily and politically, as Pitt again planned significant campaigns against New France",1
+large,800,120,2,How many geomorphologic formations is Warsaw on?,two,1
+large,800,120,2,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1973,1
+large,800,120,2,To where did Ethelred flee?,Normandy,1
+large,800,120,2,"According to the text, how much money did the Host Committee raise?",over $40 million,1
+large,800,120,2,Which cultures are represented in the V&A's collections?,"Europe, North America, Asia and North Africa",1
+large,800,120,2,What is Norman art's most well known piece?,Bayeux Tapestry,1
+large,800,120,2,"Who called themselves the ""People's President""?",Odinga,0
+large,800,120,2,What was the advantage that the LOR method produced in the event of a spacecraft failure?,"spacecraft to be used as a ""lifeboat""",1
+large,800,120,2,What are the hairs on ctenophores called?,cilia,1
+large,800,120,2,Who helped develop the first man-made self-sustaining nuclear reaction?,Chicago's physics department,0
+large,800,120,2,Pneumatica was written by what Greek writer?,Philo of Byzantium,1
+large,800,120,2,Where is the chloroplast peripheral reticulum usually found?,in the chloroplasts of C4 plants,1
+large,800,120,2,How early did Luther say he had to awaken every day?,at four,0
+large,800,120,2,"What covered Scandinavia, the Baltics, Scotland, and the Alps in the last Ice Age?",ice-sheets,1
+large,800,120,2,"Where was an elected assembly to be set up, under the terms of the Scotland Act of 1978?",Edinburgh,1
+large,800,120,2,Which episode featured the return of William Hartnell?,The Three Doctors,1
+large,800,120,2,What was found to be at fault for the fire in the cabin on Apollo 1 regarding the CM design?,deficiencies,1
+large,800,120,2,What special audio recording was released for the 40th anniversary?,Zagreus,0
+large,800,120,2,Evolution of what part of the immune system occurred in the evolutionary ancestor of jawed vertebrates?,adaptive immune system,1
+large,800,120,2,The French church in Portarlington was built when?,1696,1
+large,800,120,2,What did he hope to locate underground?,mineral deposits,1
+large,800,120,2,When are the ashes now?,Nikola Tesla Museum,0
+large,800,120,2,What is the name of the post-independence government school system in Malaysia?,National School,1
+large,800,120,2,What colors was the 2001 ABC logo?,black-and-yellow,1
+large,800,120,2,What do those in the field do to ensure a positive outcome?,make detailed plans and maintain careful oversight,0
+large,800,120,2,After the Peterloo massacre what poet wrote The Massacre of Anarchy?,Percy Shelley,1
+large,800,120,2,What type of beings does Doctor Who usually take with him on his travels?,humans,1
+large,800,120,2,When is the oldest armed seal of Warsaw from?,1390,1
+large,800,120,2,Where did he live while he was looking good?,New York City,0
+large,800,120,2,What were the Saxon Palace and Brühl Palace in prewar Warsaw?,the most distinctive buildings,1
+large,800,120,2,What kind of human T cells respond to common molecules produced by microbes?,Vγ9/Vδ2 T cells,1
+large,800,120,2,Which Ancient Roman monument is replicated in full-scale in the Cast Courts?,Trajan's Column,1
+large,800,120,2,IP and AM are most commonly defined by what type of proof system?,Interactive,1
+large,800,120,2,What are the main sources of primary law?,the Treaties establishing the European Union,1
+large,800,120,2,By what document did the Huguenots confess their faith to the Portuguese in Brazil?,the Guanabara Confession of Faith,1
+large,800,120,2,What Irish cities had Huguenot mayors in the 1600s and 1700s?,"Dublin, Cork, Youghal and Waterford",1
+large,800,120,2,When was the first plastome sequenced?,1986,1
+large,800,120,2,What philosophy of thought  addresses wealth inequality?,Neoclassical economics,1
+large,800,120,2,What did Luther explain about acquiring God's grace?,cannot be earned,1
+large,800,120,2,To where is most of the abalone and lobster caught in Victorian waters shipped?,Asia,1
+large,800,120,2,What are cilia used for?,method of locomotion,1
+large,800,120,2,When were theories developed suggesting inequality may have some positive effect on economic development?,the 1970s,1
+large,800,120,2,What court is able to interpret European Union law?,The European Court of Justice,1
+large,800,120,2,What disease did Tesla catch?,cholera,1
+large,800,120,2,"Soon after gaining Florida, what did the English do?",constructed the King's Road,1
+large,800,120,2,What is the name of the Egyptian papyrus that suggests that they may have had knowledge of prime numbers?,the Rhind papyrus,1
+large,800,120,2,What animals did Tesla care for?,pigeons,1
+large,800,120,2,What was there a significant minority of in Warsaw?,Jewish,1
+large,800,120,2,What do pyrenoids store?,starch,1
+large,800,120,2,How many interceptions are the Panthers defense credited with in 2015?,24,1
+large,800,120,2,What was the rumored reason Edison and Tesla were not awarded the prize?,Tesla and/or Edison had refused the prize,1
+large,800,120,2,How high in altitude in feet could the vacuum chambers simulate?,"250,000 feet",1
+large,800,120,2,Cities that anchor the regions are often the hub for what kind of activity?,economic,1
+large,800,120,2,What is the active form of vitamin D known as?,calcitriol,1
+large,800,120,2,In what year will the Barack Obama Presidential Center be finished?,2020,1
+large,800,120,2,What type of lenses were needed to see the 3D effects in Dimension in Time?,glasses with one darkened lens,1
+large,800,120,2,The symbol for mercuric oxide is?,HgO,0
+large,800,120,2,Natural killer cells recognize cells that should be targeted by a condition known as what?,missing self,1
+large,800,120,2,How many miles east of Berlin is Warsaw?,325,1
+large,800,120,2,What is the main gap to continued urbanization?,Camp Pendleton,0
+large,800,120,2,What metal was used in Inalchuq's execution?,silver,1
+large,800,120,2,Who did the Panthers beat in the NFC Championship Game?,Arizona Cardinals,1
+large,800,120,2,What are some advantages of hospital pharmacies?,"Hospital pharmacies usually stock a larger range of medications, including more specialized medications",1
+large,800,120,2,What basin was formed when the Andes Mountains rose?,the Solimões Basin,1
+large,800,120,2,What effect does trade with poorer countries have on the workers in richer countries?,reduced wages,1
+large,800,120,2,What does the name Fresno mean in Spanish?,ash tree,1
+large,800,120,2,ENR used data on what to rank Top 400 firms as heavy contractors?,"transportation, sewer, hazardous waste and water",1
+large,800,120,2,What does it mean for a knot to be considered indecomposable?,it cannot be written as the knot sum of two nontrivial knots,1
+large,800,120,2,What was the name given to the undergraduate college's liberal-arts curriculum?,the Common Core,1
+large,800,120,2,What did this affair cause to Luther's reputation?,lasting damage,1
+large,800,120,2,What house was the site of a weaving school in Canterbury?,The Weavers,1
+large,800,120,2,This type of system is known as ,a plug-n-play system,0
+large,800,120,2,What type of combustion does the slow reaction of triplet oxygen prevent?,spontaneous,1
+large,800,120,2,What did the Polish citizens understand the subtext of John Paul II's words to be?,incentive for the democratic changes,1
+large,800,120,2,How long might a speaker address the members during the Time of Reflection?,up to four minutes,1
+large,800,120,2,What do chloroplasts use to fix carbon dioxide into sugar?,an enzyme called rubisco,1
+large,800,120,2,What monument is in memory of the largest insurrection of WWII?,Warsaw Uprising Monument,1
+large,800,120,2,How many miles from the north Sea is Newcastle?,8.5 mi,1
+large,800,120,2,Who set up what became the Second Polish Republic?,underground leader Piłsudski,1
+large,800,120,2,What animals does the Vistula river's ecosystem include?,"otter, beaver and hundreds of bird species",1
+large,800,120,2,"What month, every four years, are the ordinary general elections held on?",May,1
+large,800,120,2,What was the name of the Doctor Who-related song released in 1988?,Doctorin' the Tardis,1
+large,800,120,2,"What religion did the Yuan discourage, to support Buddhism?",Taoism,1
+large,800,120,2,What are chloroplasts descended from?,Cyanobacteria,0
+large,800,120,2,Who found that Protestants voted for Nazis more than Catholics?,Richard (Dick) Geary,1
+large,800,120,2,Whose army liberated Warsaw in 1806?,Napoleon's,0
+large,800,120,2,Who were the Semuren?,allied groups from Central Asia and the western end of the empire,1
+large,800,120,2,What did Tesla Electric Light & Manufacturing do?,installed electrical arc light based illumination systems designed by Tesla,1
+large,800,120,2,What name was given to the plot to usurp power from the French House of Guise?,Amboise plot,1
+large,800,120,2,"What culture's arrival in Scotland is know as the ""Davidian Revolution""?",Norman,1
